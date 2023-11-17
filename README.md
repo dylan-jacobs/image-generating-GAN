@@ -5,7 +5,6 @@ Samples produced:
 
 
 <img src="https://github.com/dylan-jacobs/image-generating-GAN/assets/78403395/b7fb3533-3860-4994-8f06-809d6053ac0e" width="100">
-<img src="https://github.com/dylan-jacobs/image-generating-GAN/assets/78403395/19547299-5d19-4427-8c94-2f66f0191dbe" width="100">
 <img src="https://github.com/dylan-jacobs/image-generating-GAN/assets/78403395/268e15e2-fc22-481e-a7c2-7e5b6d58e0b3" width="100">
 <img src="https://github.com/dylan-jacobs/image-generating-GAN/assets/78403395/db6c3184-8590-4480-a958-b5e669230583" width="100">
 <img src="https://github.com/dylan-jacobs/image-generating-GAN/assets/78403395/d4afad31-0072-4887-a16c-6f84e4ffeaf8" width="100">
